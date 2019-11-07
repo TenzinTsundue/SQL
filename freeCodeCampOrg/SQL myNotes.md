@@ -206,6 +206,7 @@ Operations: <br>
 --, <, >, <=, >=, =, <>, AND, OR
 
 ## Company Database Intro
+![image](https://github.com/TenzinTsundue/SQL/blob/master/freeCodeCampOrg/Screen%20Shot%202019-11-06%20at%203.49.03%20PM.png)
 
 ## Creating Company Database
 
